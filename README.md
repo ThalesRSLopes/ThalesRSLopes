@@ -17,3 +17,6 @@ Olá! Me chamo Thales. Eu curso ciência da computação na UNESP de São José 
 - Redes neurais
 - Reconhecimento de padrões
 - Aprendizagem profunda
+
+## Onde me encontrar
+<a href="https://www.linkedin.com/in/thales-lopes-88b2a1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/thalesrslopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
