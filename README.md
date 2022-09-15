@@ -1,3 +1,4 @@
+<img src="imagens/banner_boas_vindas.png" alt="My cool logo"/>
 ### Bem vindo(a)! 👋
 
 ### Quem sou eu?
